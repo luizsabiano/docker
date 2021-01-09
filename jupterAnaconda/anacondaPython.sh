@@ -1,5 +1,6 @@
 #!/bin/bash
 
+### Inicia o Anaconda e disponibiliza o jupter Notebook
 dir="$(pwd)/notebooks" 
 
 ### Check for dir, if not found create it using the mkdir ##
